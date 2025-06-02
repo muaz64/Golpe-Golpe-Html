@@ -1,8 +1,5 @@
-Here’s the full README in English for Porbo 1 (Episode 1) of your “Golpe Golpe HTML” series, written in a clean and beginner-friendly way:
 
-📘 README.md – Episode 1: What is HTML & Why Do We Need It?
-
-# 📘 Golpe Golpe HTML – Episode 1: What is HTML & Why Do We Need It?
+# 📘 Golpe Golpe HTML – Day1: What is HTML & Why Do We Need It?
 
 Welcome to the very first step in your web development journey!
 In this episode, you’ll explore the magical language that builds the web — HTML.
